@@ -1,0 +1,1 @@
+<h1>Register App Page</h1>
